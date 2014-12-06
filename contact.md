@@ -3,4 +3,4 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-contact me!
+No busy no contact me!
